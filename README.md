@@ -6,7 +6,6 @@
   <h3 style="color:#ff5555;">❤️</h3>
   <br>
 
-  <strong><em>This isn't politics. This is just love.</em></strong>
 
   <br><br>
 

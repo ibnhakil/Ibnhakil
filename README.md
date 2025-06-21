@@ -1,12 +1,10 @@
-#Justice
+# Just Justice
 
 <div align="center">
-  
-  <h1 style="font-size:5rem;">🇵🇸</h1>
-  <h3 style="color:#ff5555;">❤️</h3>
-  <br>
 
-  <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/320px-Flag_of_Palestine.svg.png" alt="Palestine Flag" width="300" />
+
+  <h3 style="color:#ff5555;">❤️</h3>
 
   <p><strong>« Ô croyants ! Tenez ferme pour Allah et rendez un témoignage véridique.<br>
   Ne laissez pas la haine d’un peuple vous conduire à l’injustice. Soyez justes !<br>

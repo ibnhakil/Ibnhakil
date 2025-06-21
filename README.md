@@ -1,4 +1,4 @@
-# 🇵🇸 Just justice
+# just justice
 
 <div align="center">
   

@@ -1,4 +1,4 @@
-# Just Justice
+justice
 
 <div align="center">
 

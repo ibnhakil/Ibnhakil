@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🇵🇸 Just justice
 
-<!--
-**ibnhakil/Ibnhakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <h1 style="font-size:5rem;">🇵🇸</h1>
+  <h3 style="color:#ff5555;">❤️</h3>
+  <br>
 
-Here are some ideas to get you started:
+  <strong><em>This isn't politics. This is just love.</em></strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br>
+
+  <p><strong>« Ô croyants ! Tenez ferme pour Allah et rendez un témoignage véridique.<br>
+  Ne laissez pas la haine d’un peuple vous conduire à l’injustice. Soyez justes !<br>
+  C’est plus proche de la justice. Et souvenez-vous d’Allah. Certes, Allah est Omniscient de ce que vous faites. »</strong></p>
+
+  <p style="font-size:1.3rem;">
+  <strong>يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ ٨</strong>
+  </p>
+
+</div>
+
+---
+
+> 🎗️ Free Palestine

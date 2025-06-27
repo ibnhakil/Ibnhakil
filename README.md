@@ -1,19 +1,25 @@
-Just Justice is a personal, symbolic, and spiritual project.
+honestly, i have no coding background
+i just wanted to make something simple and symbolic
 
-It’s a minimalist page, written entirely in Markdown, displaying a Quranic verse (Surah 5:8) — a powerful reminder that Islam prohibits injustice, even towards those we may hate.
+so i went on github, clicked “create a new repository” and named it palestine
+then i added a file called readme.md, it’s basically just a text file
+i learned that markdown is a basic way to add formatting: titles, lists, bold text simple
 
-⚙️ How I built it:
-The project is just a stylized README.md file.
+i found out how to display a local image, created an assets folder and put the flag image inside
+then i used this line to show it:
+![alt text](assets/palestine-flag.png)
 
-I included:
+after that, i wrote the verse in arabic and added the french translation
+all of this was done directly in the readme.md file
+no scripts, no html, no website, no external tools
+just text, a bit of structure, and meaning
 
-A local image of the Palestinian flag (assets/palestine-flag.png)
+i wanted everything to be visible right away, from github itself
+no need to click anywhere
+no need to be a developer to understand what’s here
 
-The verse in Arabic and its English translation
-
-A simple HTML/Markdown structure, fully readable on GitHub
-
-No external site, no scripts — just text, intention, and a universal reminder.
-
-This project isn’t meant to argue or convince.
-It’s a personal testimony, a space of conscience. A gesture
+in the end, this project isn’t technical
+it’s a gesture, like pinning a message on a wall
+it’s not perfect, but it’s real
+like every creation, i just wanted to say something that mattered
+that’s all
